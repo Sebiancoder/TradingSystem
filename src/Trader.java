@@ -18,18 +18,11 @@ public class Trader {
 	private static final long MS_IN_200DAY = 17280000000l;
 	
 	private static final String REFRESH_TOKEN = 
-			"2icPCnDjmwk5V9muXUgzo8VLzZiT5EUw76l3PuAY1TsTb9FXkcAA8OUU0TdJsDt6Ay4Ky4uIRAiPBs%2FGHtx8P%2F%2BdO1ZgMhFvI0hn9qLFBTtaLaGL63biX9AH%2FeoP"
-			+ "ksdTI4MFe9vr1Mt2VW5q%2FpifqxbtlGQUV%2FQe53QSW40gmtFpvFwAPCEKH4ztg9r83lS%2FZqwYm6go9rXBmVupByTRr5F74dkF4xDP9B5llLtgSziBiNqPYIAEDJQz"
-			+ "xclQB%2Fp78%2FGjozfwYErbo1%2FFuyXq7TsUJ5QqMuzBGMJHFvMkY1ZspjCPoHQwHXXmjCd9yQ9ij7070iWitiBFjjl9i604NasRdiEmGlDwYrpNYkHnnaHVBUJIICkD"
-			+ "IrG3vVdkUUWaorOtqlk9f2RoiQt78BE%2FILZ0%2B4bbwAoaeFOKoTecqGii0vTUe6iUdRjm8as100MQuG4LYrgoVi%2FJHHvlDwPlN%2BprUjJiUfEa2Jd7NJ3Mb9BRV%"
-			+ "2BzwYRRie6bJ%2BJVKBQ%2BN2kuRe%2B3ELJdHyBatWF2xkFsEVnh205bWWwRxCJfH%2B6eqOL83bIyTSH0GzDPAmHRpxwaJlqX3FS3o2AaexjUJCGm55rZbOaAAEjtfBm"
-			+ "xdogH3ksofPhStbNFJUvRjUUY7OpISyMDocgCMdCHLQXEibklXlV7MgMru8yjwuy5HOvv%2FO968WtykZt3bfUyfQR5jpRQDx%2BycA8NLGm5BlNN0JHI5P%2FHTXtFKIW"
-			+ "FD3%2FRJHncN5Whg0v2xYqtf9YrGDhCG%2FNUFy%2FL337rE6c33LbfshISpzPoKBsEhvGtZfvNMRVUvptdOnJPGsfZqf1xfWkiE%2FdA48I%2Fgwq5vs7rDCtprorze5v"
-			+ "lb%2BwqjIVhVF2RJlZiAIQxklmY%2FoQvAKtHZuWb3Zcd22m%2FQd1g%3D212FD3x19z9sWBHDJACbC00B75E";
+			"{REMOVED}";
 	
-	private static final String REDIRECT_URI = "http%3A%2F%2Flocalhost%2Ftest";
+	private static final String REDIRECT_URI = "{REMOVED}";
 
-	private static String apiKey = "OYFW1QGFSQZQ113LCAGLFKBLVG5CDFAE";
+	private static String apiKey = "{REMOVED}";
 	private static String accessToken;
 
 	/* public static void main(String[] args) {
